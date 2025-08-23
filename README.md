@@ -39,4 +39,4 @@ We focus on key services such as:
 ---
 
 ### 📌 Notes
-This is part of our Digital Marketing Graduation Project under the Egypt Pioneers Initiative (رواد مصر الرقمية).
+This is part of our Digital Marketing Graduation Project under the Digital Egypt Pioneers Initiative (رواد مصر الرقمية).
