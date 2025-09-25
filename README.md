@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="0AD29A55-D2A6-4F54-AF5F-ADFE4483A4F4.jpeg" alt="Resonal Tech Logo" width="250"/>
-</p>
+
 
 # Resonal Tech – Digital Marketing Project
 
@@ -30,7 +28,9 @@ We will transform Resonal Tech’s digital presence into a **sales engine** usin
 - 🖥️ Landing Pages per offer (Lead Gen)  
 - 💾 Project Drive Folder (Mock Link)  
 - 📝 Case Studies & Testimonials (for social proof)  
-
+- 📎 [Client Facebook Page](https://www.facebook.com/share/1DbKKsPm2W/)  
+- 💾 [Project Drive Folder (Mock Link)](https://onedrive.live.com/mock-link-for-tabibsoft-project)
+- 
 ---
 ## 🧠 Unique Value Proposition
 We’re not just posting content—we’re building **a conversion funnel** for SMEs:
@@ -68,11 +68,6 @@ We’re not just posting content—we’re building **a conversion funnel** for 
 - **Support:** 24/7 (2–6h response time)  
 - **Training & Handover:** documentation, video tutorials, and team workshops  
 
----
-
-### 🔗 Project Resources
-- 📎 [Client Facebook Page](https://www.facebook.com/share/1DbKKsPm2W/)  
-- 💾 [Project Drive Folder (Mock Link)](https://onedrive.live.com/mock-link-for-tabibsoft-project)
 
 ---
 
