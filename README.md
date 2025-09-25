@@ -30,7 +30,7 @@ We will transform Resonal Tech’s digital presence into a **sales engine** usin
 - 📝 Case Studies & Testimonials (for social proof)  
 - 📎 [Client Facebook Page](https://www.facebook.com/share/1DbKKsPm2W/)  
 - 💾 [Project Drive Folder (Mock Link)](https://onedrive.live.com/mock-link-for-tabibsoft-project)
-- 
+
 ---
 ## 🧠 Unique Value Proposition
 We’re not just posting content—we’re building **a conversion funnel** for SMEs:
