@@ -143,7 +143,7 @@ Build a digital ecosystem that generates consistent qualified B2B leads.
 
 ---
 
-### 🤝 Basema Eid – Manager Assistant
+### 🤝 Basma Eid – Manager Assistant
 
 **Primary:**
 - Assisting in content creation & organization  
