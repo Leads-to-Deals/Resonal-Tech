@@ -215,6 +215,6 @@ Build a digital ecosystem that generates consistent qualified B2B leads.
 ---
 
 ## ⚖️ License
-**All rights reserved © 2025 — Resonal Tech Digital Project Team**
+**All rights reserved © 2025 — Leads to Deals Team**
 
 ---
