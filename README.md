@@ -89,7 +89,7 @@ Build a digital ecosystem that generates consistent qualified B2B leads.
 ## 👥 Team Members
 
 ### 🧑‍💼 Kareem Younis  
-**Social Media Manager & UX Content Architect — Team Lead**
+**Social Media Manager & UX Content Architect — Team Leader**
 
 **Primary Responsibilities:**
 - Ads strategy & optimization  
@@ -104,7 +104,7 @@ Build a digital ecosystem that generates consistent qualified B2B leads.
 
 ---
 
-### 📝 Mariam – Content Creator
+### 📝 Mariam Eid – Content Creator
 
 **Primary:**
 - Writing posts & scripts  
@@ -117,7 +117,7 @@ Build a digital ecosystem that generates consistent qualified B2B leads.
 
 ---
 
-### 📝 Hadeer – Content Creator
+### 📝 Hadeer Amged – Content Creator
 
 **Primary:**
 - Copywriting for posts & carousels  
@@ -130,7 +130,7 @@ Build a digital ecosystem that generates consistent qualified B2B leads.
 
 ---
 
-### 🎨 Menna – Graphic Designer
+### 🎨 Menna Abd El Tawab – Graphic Designer
 
 **Primary:**
 - Designing all static visuals  
@@ -143,7 +143,7 @@ Build a digital ecosystem that generates consistent qualified B2B leads.
 
 ---
 
-### 🤝 Basema – Manager Assistant
+### 🤝 Basema Eid – Manager Assistant
 
 **Primary:**
 - Assisting in content creation & organization  
